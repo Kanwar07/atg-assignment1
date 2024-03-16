@@ -1,0 +1,30 @@
+[
+  {
+    "imageURL": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 24 24'%3E%3Cpath fill='%239a6cb8' d='M12 5.5A3.5 3.5 0 0 1 15.5 9a3.5 3.5 0 0 1-3.5 3.5A3.5 3.5 0 0 1 8.5 9A3.5 3.5 0 0 1 12 5.5M5 8c.56 0 1.08.15 1.53.42c-.15 1.43.27 2.85 1.13 3.96C7.16 13.34 6.16 14 5 14a3 3 0 0 1-3-3a3 3 0 0 1 3-3m14 0a3 3 0 0 1 3 3a3 3 0 0 1-3 3c-1.16 0-2.16-.66-2.66-1.62a5.536 5.536 0 0 0 1.13-3.96c.45-.27.97-.42 1.53-.42M5.5 18.25c0-2.07 2.91-3.75 6.5-3.75s6.5 1.68 6.5 3.75V20h-13zM0 20v-1.5c0-1.39 1.89-2.56 4.45-2.9c-.59.68-.95 1.62-.95 2.65V20zm24 0h-3.5v-1.75c0-1.03-.36-1.97-.95-2.65c2.56.34 4.45 1.51 4.45 2.9z'/%3E%3C/svg%3E",
+    "name": "People",
+    "description": "Find a teacher, coach, or expert for your hobby interest in your locality. Find a partner, teammate, accompanist or collaborator.",
+    "buttonName": "Connect",
+    "color": "#9a6cb8"
+  },
+  {
+    "imageURL": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 24 24'%3E%3Cpath fill='%2368a24f' d='M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7m0 9.5a2.5 2.5 0 0 1 0-5a2.5 2.5 0 0 1 0 5'/%3E%3C/svg%3E",
+    "name": "Place",
+    "description": "Find a class, school, playground, auditorium, studio, shop or an event venue. Book a slot at venues that allow booking throuah hobbvcue.",
+    "buttonName": "Meet up",
+    "color": "9a6cb8"
+  },
+  {
+    "imageURL": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 48 48'%3E%3Cdefs%3E%3Cmask id='ipSShoulderBag0'%3E%3Cg fill='none' stroke-width='3'%3E%3Cpath fill='%23fff' stroke='%23fff' stroke-linejoin='round' d='M4.682 23.564A3 3 0 0 1 7.63 20h32.74a3 3 0 0 1 2.947 3.564l-3.062 16A3 3 0 0 1 37.309 42H10.691a3 3 0 0 1-2.947-2.436z'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' d='m24 6l-9 14h18z'/%3E%3Ccircle cx='24' cy='31' r='3' fill='%23000' stroke='%23000'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Cpath fill='%23dd6363' d='M0 0h48v48H0z' mask='url(%23ipSShoulderBag0)'/%3E%3C/svg%3E",
+    "name": "Product",
+    "description": "Find equipment or supplies required for your hobby. Buy, rent or borrow from shops, online stores or from community members.",
+    "buttonName": "Get it",
+    "color": "9a6cb8"
+  },
+  {
+    "imageURL": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 24 24'%3E%3Cpath fill='%236fa8dc' d='M2 19c0 1.7 1.3 3 3 3h14c1.7 0 3-1.3 3-3v-8H2zM19 4h-2V3c0-.6-.4-1-1-1s-1 .4-1 1v1H9V3c0-.6-.4-1-1-1s-1 .4-1 1v1H5C3.3 4 2 5.3 2 7v2h20V7c0-1.7-1.3-3-3-3'/%3E%3C/svg%3E",
+    "name": "Program",
+    "description": "Find events, meetups and workshops related to your hobby. Register or buy tickets online",
+    "buttonName": "Attend",
+    "color": "9a6cb8"
+  }
+]

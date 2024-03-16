@@ -44,7 +44,7 @@ function Navbar() {
               type="search"
               id="search"
               name="search"
-              size="35"
+              size="20"
               className={navbarstyle.searchtext}
               placeholder="Search here.."
             />
